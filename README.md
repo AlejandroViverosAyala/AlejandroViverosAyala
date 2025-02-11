@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 👋 Hi, Alex
 - 👀 I am an aspiring data scientist and enjoy documenting my journey.
 - 🌱 I’m currently learning data visualization and data story telling.
 - 💞️ I’m open to collaborate on data projects.
